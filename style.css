@@ -1,0 +1,27 @@
+body {
+background-color: blanchedalmond;
+font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    color: #a52a2a;
+}
+
+a {
+display: inline-block;
+color: #500000;
+font-size: 25px;
+font-weight: bold;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.nazwa-przep {
+color: black;
+font-size: 45px;
+text-align: left;
+
+}
